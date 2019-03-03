@@ -13,7 +13,7 @@
 - Run `npm install` to install dependencies
 - Run `npm test` to run tests
 
-### Decision taken because of time constraint
+### Decisions taken because of time constraint
 - There should be a lot more unit tests to cover more scenarios
 - There should API/integration tests for the application REST layer
 - There should be better error handling for the application
